@@ -1,4 +1,4 @@
-# ML-Class
+# ML-Class  謝坤達老師
 #### CSU CSIE 1092 
 ### Outline
 * Python基本功能介紹 [github](https://github.com/joelgrus/data-science-from-scratch)
